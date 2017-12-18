@@ -21,6 +21,8 @@ $(document).ready(function(){
             $(".items-menu").css('top', '70px');
             $(".guides-menu").css('top', '70px');
             $('.register').css('margin-top', '70px');
+						$('.replays').css('margin-top', '70px');
+						$('.login').css('margin-top', '70px');
             $('.champions-header').css('margin-top', '70px');
             $('.champion-content').css('margin-top', '70px');
             $('.item-content').css('margin-top', '70px');
@@ -33,7 +35,9 @@ $(document).ready(function(){
     		$('.header-navigation').css('position', 'relative');
     		$('#slideshow-wrap').css('margin-top', '0px');
             $('.register').css('margin-top', '0px');
+						$('.login').css('margin-top', '0px');
             $('.champions-header').css('margin-top', '0px');
+						$('.replays').css('margin-top', '0px');
             $('.items-header').css('margin-top', '0px');
             $(".champions-menu").css('top', x + 'px');
             $(".items-menu").css('top', x + 'px');
